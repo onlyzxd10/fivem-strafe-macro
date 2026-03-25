@@ -4,8 +4,8 @@ SendMode Input
 
 running := false
 
-;
-R::
+; >>> CHANGE THIS KEY <<<
+R::  ; Start Key
 running := true
 while (running) {
 
@@ -28,8 +28,8 @@ while (running) {
 }
 return
 
-;
-I::
+; >>> CHANGE THIS KEY <<<
+I::  ; Stop Key
 running := false
 return
 
