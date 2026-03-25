@@ -19,9 +19,11 @@ F12 Key: Closes the script completely
 
 You can easily change the keys and delay inside the script.
 
+
 R::  ; Start Key
 I::  ; Stop Key
 F12::ExitApp
+
 
 Sleep, 60  ; Key press delay (ms)
 
